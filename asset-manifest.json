@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FullStack_ReactReduxFireBase/static/css/main.624005bc.chunk.css",
+    "main.js": "/FullStack_ReactReduxFireBase/static/js/main.9af01fa5.chunk.js",
+    "main.js.map": "/FullStack_ReactReduxFireBase/static/js/main.9af01fa5.chunk.js.map",
+    "runtime-main.js": "/FullStack_ReactReduxFireBase/static/js/runtime-main.50e7487d.js",
+    "runtime-main.js.map": "/FullStack_ReactReduxFireBase/static/js/runtime-main.50e7487d.js.map",
+    "static/js/2.fbb80b71.chunk.js": "/FullStack_ReactReduxFireBase/static/js/2.fbb80b71.chunk.js",
+    "static/js/2.fbb80b71.chunk.js.map": "/FullStack_ReactReduxFireBase/static/js/2.fbb80b71.chunk.js.map",
+    "index.html": "/FullStack_ReactReduxFireBase/index.html",
+    "precache-manifest.44ae39552fba9023e29b33d2f4e09681.js": "/FullStack_ReactReduxFireBase/precache-manifest.44ae39552fba9023e29b33d2f4e09681.js",
+    "service-worker.js": "/FullStack_ReactReduxFireBase/service-worker.js",
+    "static/css/main.624005bc.chunk.css.map": "/FullStack_ReactReduxFireBase/static/css/main.624005bc.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50e7487d.js",
+    "static/js/2.fbb80b71.chunk.js",
+    "static/css/main.624005bc.chunk.css",
+    "static/js/main.9af01fa5.chunk.js"
+  ]
+}
