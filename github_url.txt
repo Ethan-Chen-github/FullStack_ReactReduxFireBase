@@ -1,0 +1,1 @@
+https://github.com/Ethan-Chen-github/react-redux-firebase

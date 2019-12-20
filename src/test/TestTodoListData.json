@@ -1,0 +1,130 @@
+{
+    "WireFramers": 
+    [
+        {
+            "name": "Reset Email Wiframer",
+            "DimX":400,
+            "DimY":400,
+            "list": [
+                {
+                    "key": 0,
+                    "type": "container",
+                    "value": null,
+                    "style": 
+                    {
+                    "posX": 52,
+                    "posY": 86,
+                    "width": "289px",
+                    "height": "233px",
+                    "fontSize": 15,
+                    "fontColor" : "#636363",
+                    "backgroundColor": "#FFFFFF",
+                    "borderColor": "#000000",
+                    "borderWidth": 1,
+                    "borderRadius": 1
+                    }
+                },
+                {
+                    "key": 1,
+                    "type": "label",
+                    "value": "Email",
+                    "style": 
+                    {
+                    "posX": 88,
+                    "posY": 147,
+                    "width": "63px",
+                    "height": "25px",
+                    "fontSize": 15,
+                    "fontColor" : "#636363",
+                    "backgroundColor": "#FFFFFF",
+                    "borderColor": "#000000",
+                    "borderWidth": 0,
+                    "borderRadius": 0
+                    }
+                },
+                {
+                    "key": 2,
+                    "type": "textfield",
+                    "value": "your email",
+                    "style": 
+                    {
+                    "posX": 148,
+                    "posY": 141,
+                    "width": "154px",
+                    "height": "30px",
+                    "fontSize": 15,
+                    "fontColor" : "#e1e1e1",
+                    "backgroundColor": "#FFFFFF",
+                    "borderColor": "#000000",
+                    "borderWidth": 0,
+                    "borderRadius": 0
+                    }
+                },
+                {
+                    "key": 3,
+                    "type": "button",
+                    "value": "Submit",
+                    "style": 
+                    {
+                    "posX": 135,
+                    "posY": 225,
+                    "width": "100px",
+                    "height": "30px",
+                    "fontSize": 15,
+                    "fontColor" : "#000000",
+                    "backgroundColor": "#e1e1e1",
+                    "borderColor": "#000000",
+                    "borderWidth": 1,
+                    "borderRadius": 1
+                    }
+                }
+
+            ]
+        },
+        {
+            "name": "Reset CSE316 Wiframer",
+            "DimX":528,
+            "DimY":239,
+            "list": [
+                {
+                    "key": 0,
+                    "type": "container",
+                    "value": null,
+                    "style": 
+                    {
+                    "posX": 57,
+                    "posY": 47,
+                    "width": "411px",
+                    "height": "143px",
+                    "fontSize": 15,
+                    "fontColor" : "#636363",
+                    "backgroundColor": "#FFFFFF",
+                    "borderColor": "#ff0000",
+                    "borderWidth": 5,
+                    "borderRadius": 20
+                    }
+                },
+                {
+                    "key": 1,
+                    "type": "label",
+                    "value": "CSE 316 FALL 2019",
+                    "style": 
+                    {
+                    "posX": 130,
+                    "posY": 94,
+                    "width": "269px",
+                    "height": "56px",
+                    "fontSize": 30,
+                    "fontColor" : "#f50bf6",
+                    "backgroundColor": "#060505",
+                    "borderColor": "#000000",
+                    "borderWidth": 0,
+                    "borderRadius": 0
+                    }
+                }
+
+            ]
+        }
+        
+    ]
+}
